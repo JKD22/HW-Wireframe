@@ -57,7 +57,7 @@ section {
     padding: 0% 0%;
 }
 
-.sectionDisplay {
+.shortDisplay {
     display: inline-block;
     margin: 1%;
     padding: 1%;
@@ -66,4 +66,8 @@ section {
 .articleDisplay {
     padding: 1%;
     margin: 0%;
+}
+
+.footerdisplay {
+    display: block;
 }
