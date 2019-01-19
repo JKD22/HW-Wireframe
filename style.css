@@ -71,3 +71,16 @@ section {
 .footerdisplay {
     display: block;
 }
+
+.asideBox {
+    height: 100px;
+    width: 150px;
+    padding: 10px;
+    position: relative;
+}
+
+.sectionBox {
+    height: 100px;
+    width: 150px;
+    padding: 10px;
+}
